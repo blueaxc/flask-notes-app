@@ -1,3 +1,7 @@
+Preview
+![image](https://github.com/user-attachments/assets/4fbc89a1-aa70-4c35-ac9d-64af1f8d9deb)
+
+
 # 📝 Flask + PostgreSQL Notes App (Dockerized)
 
 A simple Flask web app that lets users add and view notes, stored in a PostgreSQL database — all running in Docker containers.
